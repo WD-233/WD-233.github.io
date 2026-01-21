@@ -102,7 +102,7 @@ Hi! I am Haoxun Li (李浩勋), a final-year M.S. candidate in Artificial Intell
 
 My research interests include emotional speech generation and recognition, as well as multimodal affective computing. During my studies, I have received multiple honors, including the UCAS Merit Student Award, the First-Class Academic Scholarship, and the National Scholarship. I am grateful to be advised by Prof. Taihao Li and Dr. Leyuan Qu for their high comprehensive support and guidance in my research. I also sincerely thank my labmates [Yu Liu](https://yultheconkor.github.io/) and Hanlei Shi—our close collaboration and frequent discussions have made research both productive and enjoyable.
 
-I believe that while AI is rapidly growing into a powerful tool and assistant, it still cannot be compared with humans in a fundamental sense, largely because it lacks genuine emotional understanding and empathy. Affective computing will be crucial for making human–AI interaction more natural and trustworthy, and may become an important direction for the future of AI. Motivated by this, my current work focuses on speech as a primary modality: by leveraging richer paralinguistic cues, I aim to improve both emotion recognition and emotion generation, ultimately enabling more natural and emotionally aware human–machine interaction.
+I believe that while AI is rapidly growing into a powerful tool and assistant, it still cannot be compared with humans in a fundamental sense, largely because it lacks genuine emotional understanding and empathy. Affective computing will be crucial for making human-computer interaction more natural and trustworthy, and may become an important direction for the future of AI. Motivated by this, my current work focuses on speech as a primary modality: by leveraging richer paralinguistic cues, I aim to improve both emotion recognition and emotion generation, ultimately enabling more natural and emotionally aware human-computer interaction.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
@@ -637,20 +637,20 @@ html[data-theme="dark"] .exp-img img,
 I'm a music enthusiast. I started learning guitar in the 5th grade under Mr. Yongxi Yang. After reaching Level 10 in classical guitar, I became obsessed with fingerstyle guitar and taught myself more advanced techniques. My favorite player is the Brazilian fingerstyle guitarist Daniel Padim—I genuinely think every one of his pieces is pure magic, and they've kept me company through countless days and nights. During my master's program, I even chose to live in the lab so I could practice guitar every deep night.
 
 <div style="display: flex; justify-content: space-between; gap: 10px; max-width: 500px; margin: 15px auto;">
-  <img src='images/m1-1.jpg' alt="guitar" style="width: 48%; height: auto; object-fit: contain;">
-  <img src='images/m1-2.jpg' alt="guitar" style="width: 48%; height: auto; object-fit: contain;">
+  <img src='images/m1-1.jpg' alt="guitar" style="width: 60%; height: auto; object-fit: contain;">
+  <img src='images/m1-2.jpg' alt="guitar" style="width: 40%; height: auto; object-fit: contain;">
 </div>
 
 In high school, I formed my first band, "半成品乐队", and we performed our songs at the coming-of-age ceremony of Beijing No. 101 High School. As an undergraduate, I met my three best friends—Xincheng Liu, Jieni Ma, and Yuchen Zhu—and we started a small band called "三人一猪". We wrote the college anthem and performed it at the [graduation ceremony](https://www.bilibili.com/video/BV1wa4y1c7Kg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=aea926cd427c710577bcb1bcdaae25ee). During my master's program, I helped found an instrumental music club, formed HIAS's first band, and played at various events.
 
 <div style="display: flex; justify-content: space-between; gap: 10px; max-width: 500px; margin: 15px auto;">
-  <img src='images/m2-1.png' alt="band" style="width: 48%; height: auto; object-fit: contain;">
-  <img src='images/m2-2.jpg' alt="band" style="width: 48%; height: auto; object-fit: contain;">
+  <img src='images/m2-1.png' alt="band" style="width: 60%; height: auto; object-fit: contain;">
+  <img src='images/m2-2.jpg' alt="band" style="width: 60%; height: auto; object-fit: contain;">
 </div>
 
 I also love chess games, especially Go (围棋). Ever since I learned Go in the 2nd grade, I once went through a phase where I studied it on my own for about 10 hours a day. In 3rd grade, I won the Haidian District "Chunqiu Cup" (Primary School Group). By 5th grade, I reached Amateur 5-dan (the highest amateur rank) and was awarded the title of National Level-2 Athlete.
 
-<div style="display: flex; justify-content: center; max-width: 350px; margin: 15px auto;">
+<div style="display: flex; justify-content: center; max-width: 220px; margin: 15px auto;">
   <img src='images/m3-1.jpg' alt="go" style="width: 100%; height: auto; object-fit: contain;">
 </div>
 
@@ -658,8 +658,8 @@ I enjoy logic games too—Werewolf, Blood on the Clocktower, Sudoku, and more. I
 
 I'm a big fan of ball sports, including (but not limited to) badminton, table tennis, soccer, tennis, and billiards. Before starting my master's program, I served multiple times as team captain for badminton, table tennis, and soccer teams. Since entering my master's program, I've won five medals across different campus sports competitions—and, jokingly speaking, I've done my part to make people take the Sports Power of the School of Intelligent Science and Technology very seriously.
 
-<div style="display: flex; justify-content: center; max-width: 350px; margin: 15px auto;">
-  <img src='images/jiangpai.jpg' alt="sports medals" style="width: 100%; height: auto; object-fit: contain;">
+<div style="display: flex; justify-content: center;">
+  <img src='images/jiangpai.png' alt="sports medals" width="60%" style="display: inline-block;">
 </div>
 
 Finally, my two favorite games are Arknights and Identity V. Feel free to add me (my Arknights account is on the official server).
