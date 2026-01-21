@@ -659,14 +659,14 @@ I enjoy logic games too—Werewolf, Blood on the Clocktower, Sudoku, and more. I
 I'm a big fan of ball sports, including (but not limited to) badminton, table tennis, soccer, tennis, and billiards. Before starting my master's program, I served multiple times as team captain for badminton, table tennis, and soccer teams. Since entering my master's program, I've won five medals across different campus sports competitions—and, jokingly speaking, I've done my part to make people take the Sports Power of the School of Intelligent Science and Technology very seriously.
 
 <div style="display: flex; justify-content: center;">
-  <img src='images/jiangpai.png' alt="sports medals" width="60%" style="display: inline-block;">
+  <img src='images/jiangpai.png' alt="sports medals" width="40%" style="display: inline-block;">
 </div>
 
 Finally, my two favorite games are Arknights and Identity V. Feel free to add me (my Arknights account is on the official server).
 
 <div style="display: flex; justify-content: space-between; gap: 10px; max-width: 500px; margin: 15px auto;">
-  <img src='images/mingrifangzhou.png' alt="Arknights" style="width: 48%; height: auto; object-fit: contain;">
-  <img src='images/diwurenge.png' alt="Identity V" style="width: 48%; height: auto; object-fit: contain;">
+  <img src='images/mingrifangzhou.png' alt="Arknights" style="width: 65%; height: auto; object-fit: contain;">
+  <img src='images/diwurenge.png' alt="Identity V" style="width: 55%; height: auto; object-fit: contain;">
 </div>
 
 </div>
