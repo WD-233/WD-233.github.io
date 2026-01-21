@@ -12,17 +12,17 @@ main:
   - title: "Educations"
     url: "/#educations"
 
-  - title: "Internships"
-    url: "/#internships"
+  # - title: "Internships"
+  #   url: "/#internships"
 
-  - title: "Services"
-    url: "/#services"
+  # - title: "Services"
+  #   url: "/#services"
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
 
-  - title: "Press/Media"
-    url: "/#press-media"
+  # - title: "Press/Media"
+  #   url: "/#press-media"
 
   - title: "Miscellaneous"
     url: "/#person"

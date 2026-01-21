@@ -207,5 +207,47 @@ All required image files are present in the `/images/` directory:
 
 ---
 
+---
+
+## Update Log - January 21, 2026 (Second Round)
+
+### Additional Modifications
+
+1. **Avatar Image Path** (`_config.yml`)
+   - Changed avatar path from `images/soochow.jpg` to `/data/lihaoxun/tmp/images/soochow.jpg` (absolute path)
+
+2. **Sidebar Display** (`_config.yml`)
+   - Removed "HIAS, UCAS" from employer field (left empty for better visual effect)
+
+3. **Social Media Links Removal** (`_config.yml`)
+   - Completely commented out `twitter` field to ensure it doesn't display
+   - Completely commented out `linkedin` field to ensure it doesn't display
+
+4. **Navigation Bar** (`_data/navigation.yml`)
+   - Commented out "Internships" navigation item
+   - Commented out "Services" navigation item
+   - Commented out "Press/Media" navigation item
+   - These sections remain commented in the page but are no longer accessible from the top navigation
+
+5. **Miscellaneous Section Image Formatting** (`_pages/about.md`)
+   - All images now maintain aspect ratio with `object-fit: contain` and `height: auto`
+   - Reduced overall image size with maximum width constraints:
+     - Guitar photos (m1-1.jpg, m1-2.jpg): max-width 700px container, 48% width each
+     - Band photos (m2-1.png, m2-2.jpg): max-width 700px container, 48% width each
+     - Go photo (m3-1.jpg): max-width 500px container (significantly reduced from 60% viewport width)
+     - Sports medals (jiangpai.jpg): max-width 500px container
+     - Game screenshots (mingrifangzhou.png, diwurenge.png): max-width 700px container, 48% width each
+   - Added `gap: 10px` between side-by-side images for better spacing
+   - Centered all image containers with `margin: 15px auto`
+
+### Summary of Changes
+- Fixed avatar path to use absolute path
+- Successfully removed Twitter and LinkedIn from sidebar
+- Removed HIAS, UCAS employer display
+- Cleaned up navigation bar to hide commented sections
+- Optimized all Miscellaneous section images for better responsive display while maintaining aspect ratios
+
+---
+
 **End of Change Log**
 

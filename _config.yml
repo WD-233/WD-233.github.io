@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haoxun Li"
-  avatar           : "images/soochow.jpg"
+  avatar           : "images/me.jpg"
   bio              : 
   location         : "Hangzhou, China"
-  employer         : "HIAS, UCAS"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Nj4Ew20AAAAJ"
   email            : "lihaoxun23@mails.ucas.ac.cn"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "" # e.g., "linkedin username"
+  # linkedin         : "" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  # twitter          : ""
   vine             :
   weibo            :
   xing             :

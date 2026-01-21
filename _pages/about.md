@@ -636,37 +636,37 @@ html[data-theme="dark"] .exp-img img,
 
 I'm a music enthusiast. I started learning guitar in the 5th grade under Mr. Yongxi Yang. After reaching Level 10 in classical guitar, I became obsessed with fingerstyle guitar and taught myself more advanced techniques. My favorite player is the Brazilian fingerstyle guitarist Daniel Padim—I genuinely think every one of his pieces is pure magic, and they've kept me company through countless days and nights. During my master's program, I even chose to live in the lab so I could practice guitar every deep night.
 
-<div style="display: flex; justify-content: space-between;">
-  <img src='images/m1-1.jpg' alt="guitar" width="48%" style="display: inline-block;">
-  <img src='images/m1-2.jpg' alt="guitar" width="48%" style="display: inline-block;">
+<div style="display: flex; justify-content: space-between; gap: 10px; max-width: 700px; margin: 15px auto;">
+  <img src='images/m1-1.jpg' alt="guitar" style="width: 48%; height: auto; object-fit: contain;">
+  <img src='images/m1-2.jpg' alt="guitar" style="width: 48%; height: auto; object-fit: contain;">
 </div>
 
 In high school, I formed my first band, "半成品乐队", and we performed our songs at the coming-of-age ceremony of Beijing No. 101 High School. As an undergraduate, I met my three best friends—Xincheng Liu, Jieni Ma, and Yuchen Zhu—and we started a small band called "三人一猪". We wrote the college anthem and performed it at the [graduation ceremony](https://www.bilibili.com/video/BV1wa4y1c7Kg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=aea926cd427c710577bcb1bcdaae25ee). During my master's program, I helped found an instrumental music club, formed HIAS's first band, and played at various events.
 
-<div style="display: flex; justify-content: space-between;">
-  <img src='images/m2-1.png' alt="band" width="48%" style="display: inline-block;">
-  <img src='images/m2-2.jpg' alt="band" width="48%" style="display: inline-block;">
+<div style="display: flex; justify-content: space-between; gap: 10px; max-width: 700px; margin: 15px auto;">
+  <img src='images/m2-1.png' alt="band" style="width: 48%; height: auto; object-fit: contain;">
+  <img src='images/m2-2.jpg' alt="band" style="width: 48%; height: auto; object-fit: contain;">
 </div>
 
 I also love chess games, especially Go (围棋). Ever since I learned Go in the 2nd grade, I once went through a phase where I studied it on my own for about 10 hours a day. In 3rd grade, I won the Haidian District "Chunqiu Cup" (Primary School Group). By 5th grade, I reached Amateur 5-dan (the highest amateur rank) and was awarded the title of National Level-2 Athlete.
 
-<div style="display: flex; justify-content: center;">
-  <img src='images/m3-1.jpg' alt="go" width="60%" style="display: inline-block;">
+<div style="display: flex; justify-content: center; max-width: 500px; margin: 15px auto;">
+  <img src='images/m3-1.jpg' alt="go" style="width: 100%; height: auto; object-fit: contain;">
 </div>
 
 I enjoy logic games too—Werewolf, Blood on the Clocktower, Sudoku, and more. I started competitive math early in elementary school, and in 4th grade I won a Gold Award at the IMC (International Mathematics Competition) held in Singapore, which definitely sharpened my logical thinking. Friends I've played Werewolf with once nicknamed me "老流氓"—and I take it as a really high compliment. 🙂
 
 I'm a big fan of ball sports, including (but not limited to) badminton, table tennis, soccer, tennis, and billiards. Before starting my master's program, I served multiple times as team captain for badminton, table tennis, and soccer teams. Since entering my master's program, I've won five medals across different campus sports competitions—and, jokingly speaking, I've done my part to make people take the Sports Power of the School of Intelligent Science and Technology very seriously.
 
-<div style="display: flex; justify-content: center;">
-  <img src='images/jiangpai.jpg' alt="sports medals" width="60%" style="display: inline-block;">
+<div style="display: flex; justify-content: center; max-width: 500px; margin: 15px auto;">
+  <img src='images/jiangpai.jpg' alt="sports medals" style="width: 100%; height: auto; object-fit: contain;">
 </div>
 
 Finally, my two favorite games are Arknights and Identity V. Feel free to add me (my Arknights account is on the official server).
 
-<div style="display: flex; justify-content: space-between;">
-  <img src='images/mingrifangzhou.png' alt="Arknights" width="48%" style="display: inline-block;">
-  <img src='images/diwurenge.png' alt="Identity V" width="48%" style="display: inline-block;">
+<div style="display: flex; justify-content: space-between; gap: 10px; max-width: 700px; margin: 15px auto;">
+  <img src='images/mingrifangzhou.png' alt="Arknights" style="width: 48%; height: auto; object-fit: contain;">
+  <img src='images/diwurenge.png' alt="Identity V" style="width: 48%; height: auto; object-fit: contain;">
 </div>
 
 </div>
