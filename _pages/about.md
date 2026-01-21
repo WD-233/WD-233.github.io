@@ -23,9 +23,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 😊 About me
 
-***Resume***: [Resume](https://drive.google.com/file/d/1fYYlj0MhJGsPPDdWUMB9LHMTqUo3bL1s/view?usp=sharing) (Updated on 6 Jan, 2026)
+***Resume (in Chinese)***: [Resume](resume_in_chinese_20260120.pdf) (Updated on 20 Jan, 2026)
 
-***Contact***: **vanzl3386 [at] gmail.com (preferred)**, vanzl [at] u.nus.edu, 121090525 [at] link.cuhk.edu.cn
+***Contact***: **lihaoxun23@mails.ucas.ac.cn (preferred)**, rickyhx@163.com
 
 ---
 <style>
@@ -98,46 +98,11 @@ html.dark .section-toggle-btn, body.dark .section-toggle-btn, html[data-theme="d
 <!-- Dark mode is handled globally in layout/head; local button/styles removed -->
 
 
-Hi! I am Zhenglin Wan (万政霖), a first-year CS Ph.D. student at [HPC-AI Lab](https://ai.comp.nus.edu.sg/) at National University of Singapore (NUS), advised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) and supported by *NUS Research Scholarship*. Previously, I served as an Research Staff in Nanyang Technological University (NTU), working with [Prof. Bo An](https://personal.ntu.edu.sg/boan/). I received my B.Sc from Chinese University of Hong Kong (CUHK) on 2025 Fall (completed undergrad in Shenzhen campus). I also have spent a long time working with [Prof. Ivor Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang) at [Centre for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar), [IHPC](https://www.a-star.edu.sg/ihpc/), [A\*STAR](https://www.a-star.edu.sg/) in Singapore, and have interned at [Hong Kong Generative AI Research & Development Center (HKGAI)](https://www.hkgai.info/), led by [Prof. Yike Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/yikeguo) in HKUST.
+Hi! I am Haoxun Li (李浩勋), a final-year M.S. candidate in Artificial Intelligence at the [School of Intelligent Science and Technology](http://hias.ucas.ac.cn/znkxyjs/index.htm), [Hangzhou Institute for Advanced Study (HIAS)](http://hias.ucas.ac.cn/), [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.edu.cn/). 
 
----
+My research interests include emotional speech generation and recognition, as well as multimodal affective computing. During my studies, I have received multiple honors, including the UCAS Merit Student Award, the First-Class Academic Scholarship, and the National Scholarship. I am grateful to be advised by Prof. Taihao Li and Dr. Leyuan Qu for their high comprehensive support and guidance in my research. I also sincerely thank my labmates [Yu Liu](https://yultheconkor.github.io/) and Hanlei Shi—our close collaboration and frequent discussions have made research both productive and enjoyable.
 
-I am a RL (Reinforcement Learning) believer. Previously I mainly studied improving RL or inverse RL from algorithmic side: such as improving the policy diversity (like [EBC](https://arxiv.org/abs/2410.06151)) and policy expressiveness (like [GoRL](https://arxiv.org/abs/2512.02581)). Recently, I am focusing on RL and LLM Agent: RL to empower LLM agents with long-horizon human-like reasoning, planning and decision-making skills.
-
----
-I am grateful to have received help and guidance for my career from so many people—such as Flint, Song, David, Ivor, Bo, Xingrui, and many others. I also understand many truly talented students may not have the opportunities to reach their full potential. So, if you are an undergrad or master student and believe I could offer advice, information, or opportunities that might help with your career, feel free to reach out to me by email. Meanwhile, I am also a student mentor in [CFAR](https://www.a-star.edu.sg/cfar), [IHPC](https://www.a-star.edu.sg/ihpc/), [A*STAR](https://www.a-star.edu.sg/) at Singapore. If you are interested in visiting or intern opportunities, you are welcomed to drop me an email for a chat.
-
-<style>
-.mentees-list {
-  margin-top: 0.5em;
-  margin-bottom: 1em;
-  padding-left: 20px;
-}
-.mentees-list li {
-  margin-bottom: 2px;
-  padding-bottom: 0;
-}
-details.mentees-details { margin: 0.5em 0 1em; }
-details.mentees-details > summary { cursor: pointer; }
-details.mentees-details > summary::marker { color: #2a72d4; }
-details.mentees-details > summary::-webkit-details-marker { color: #2a72d4; }
-</style>
-
-<details class="mentees-details">
-  <summary><strong>Mentees (research-based, majority of them are co-mentored with scientists at CFAR, IHPC, A*STAR):</strong></summary>
-  <ul class="mentees-list">
-    <li>Yaxin Zhou (Master's student @ CMU, America; Author of <a href="https://arxiv.org/abs/2601.01569v1">[[CaveAgent]]</a>)</li>
-    <li>Jingxuan Wu (Master's student @ UNC, America; Author of <a href="https://arxiv.org/abs/2510.09060">[[OSCAR]]</a>)</li>
-    <li>Xu Pan (Master’s student @ Wuhan University)</li>
-    <li>Chubin Zhang (Master’s student @ Beijing University of Posts and Telecommunications; Author of <a href="https://arxiv.org/abs/2512.02581">[[GoRL]]</a>)</li>
-    <li>Dongchu Xie (Undergrad @ CUHK(SZ))</li>
-    <li>Xin Yan (Undergrad @ Beijing Normal University)</li>
-    <li>He Ma (Undergrad @ CUHK(SZ))</li>
-  </ul>
-</details>
-
-
-<mark style="background-color: yellow; color: black;">Besides, I am ALWAYS open to collaborations, networking and intern opportunities, feel free to contact me by email! (vanzl3386 [at] gmail.com)</mark>
+I believe that while AI is rapidly growing into a powerful tool and assistant, it still cannot be compared with humans in a fundamental sense, largely because it lacks genuine emotional understanding and empathy. Affective computing will be crucial for making human–AI interaction more natural and trustworthy, and may become an important direction for the future of AI. Motivated by this, my current work focuses on speech as a primary modality: by leveraging richer paralinguistic cues, I aim to improve both emotion recognition and emotion generation, ultimately enabling more natural and emotionally aware human–machine interaction.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
@@ -150,21 +115,7 @@ details.mentees-details > summary::-webkit-details-marker { color: #2a72d4; }
 
 <div class="news" markdown="1">
 <div class="scroll-window" markdown="1">
-- *2026.01*  &nbsp;🎉 We released our new work **CaveAgent** (a new product-inspired function calling paradigm for LLM Agent) ([[Paper]](https://arxiv.org/abs/2601.01569v1), [[Source Code]](https://github.com/acodercat/cave-agent))!
-- *2025.12*  &nbsp;🎉 We released our new work **GoRL** for online Reinforcement Learning with generative policies. ([[Paper]](https://arxiv.org/abs/2512.02581), [[Code]](https://github.com/bennidict23/GoRL))
-- *2025.10*  &nbsp;🎉 Our paper **FM-IRL** (Flow Matching for inverse RL) is on Arxiv. ([[Paper]](https://arxiv.org/abs/2510.09222), [[Code]](https://github.com/vanzll/FM_IRL)).
-- *2025.10*  &nbsp;🎉 **OSCAR** (training free technique for diverse image generation) is on Arxiv. ([[Paper]](https://arxiv.org/abs/2510.09060), [[Code]](https://github.com/Johnny221B/OSCAR)).
-- *2025.08*  &nbsp;🎉🎉 Received my B.Sc from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) with 1-st class honor, looking forward to new journey!
-- *2025.05*  &nbsp;🎉🎉 [**EBC**](https://arxiv.org/abs/2410.06151) is accepted by ICML 2025 ([Code](https://github.com/vanzll/EBC) available).
-- *2025.03*  &nbsp;🎉🎉 One paper accepted by ICLR 2025 (generative models for robot learning workshop).
-- *2024.12*  &nbsp;🎉🎉 One paper accepted by AAMAS 2025 (oral).
-- *2024.12*  &nbsp;🎉🎉 One paper accepted by AAAI 2025 (oral).
-- *2024.09*  &nbsp;🎉🎉 One invention patent is published.
-- *2024.09*  &nbsp;🎉🎉 Awarded *Academic Performance Scholarship* (for top 5% students) for consecutive two years.
-- *2024.05*  &nbsp;🎉🎉 One invention patent is officially granted. 
-- *2023.12*  &nbsp;🎉🎉 As tech co-founder, I co-founded enterprise "Metasequoia Intelligence" based in Shenzhen, China.
-- *2021.09*  &nbsp;🎉🎉 Awarded *Zhejiang Guolong Inspirational* and *Diligentia Bowen* Scholarship to support my undergraduate studies in CUHK(SZ).
-- *2019.09*  &nbsp;🎉🎉 Lucky to win the 1-st prize in Provincial Chinese Mathematics Olympiad (CMO). Thanks for this intellectually-rewarding experience.
+- *2026.01*  &nbsp;🎉🎉 Two papers accepted by ICASSP 2026 (one for [TTS](https://arxiv.org/abs/2510.05758) and one for [SER](https://arxiv.org/abs/2510.05749)).
 
 </div>
 </div>
@@ -181,7 +132,7 @@ details.mentees-details > summary::-webkit-details-marker { color: #2a72d4; }
     var marginTop = parseFloat(liStyle.marginTop) || 0;
     var marginBottom = parseFloat(liStyle.marginBottom) || 0;
     var perItem = liRect.height + (marginTop + marginBottom);
-    var target = perItem * 9; // show ~9 items
+    var target = perItem * 2; // show ~2 items
     container.style.maxHeight = target + 'px';
   }
   function onReady(fn) {
@@ -199,13 +150,13 @@ details.mentees-details > summary::-webkit-details-marker { color: #2a72d4; }
 </script>
 
 <span class='anchor' id='Publication-List'></span>
-# 📝 Selected Publications
+# 📝 Publications
 
 <div id="publications-section" markdown="1">
 
-## Conference papers and Preprints
+## Papers and preprints
 Please scroll down to view all publications.
-\* denotes joint-first-author and equal contribution.
+\* denotes Co-first Author, † denotes Advisor.
 <style>
 /* Publications section styles (scoped) */
 .publications { font-family: "Times New Roman", Times, serif; font-size: 0.96em; }
@@ -370,18 +321,28 @@ Please scroll down to view all publications.
 </script>
 
 ## Invention Patents
-As these works are patented in China, all these names are directly translated from Chinese.
-- **A Method, System, Terminal Device, and Storage Medium for Air Quality Spatial Inference** (Granted)
-  
-   Inventor: Jun Song, Yibo Xu, Yiwen Pan, Maohao Ran, **<u>Zhenglin Wan</u>**, Xiaoyun Yan, Yike Guo
-- **A Single-UAV Atmospheric Pollutant Source Tracing Method Based on Gradient Ascent and Physical Kinematics** (Public)
+† denotes Advisor.
 
-   Inventor: **<u>Zhenglin Wan</u>**, Jun Song, Yibo Xu, Maohao Ran, Yike Guo
+- **A Fine-Grained Emphasis-Controllable Emotional Speech Synthesis Method**
 
-## White Paper
+   Inventor: Taihao Li†, Leyuan Qu†, **<u>Haoxun Li</u>**, Jiaxi Hu, Hanlei Shi
+
+- **A Speech Emotion Recognition Method Based on Supervised Contrastive Learning**
+
+   Inventor: Taihao Li†, Leyuan Qu†, Jiaxi Hu, **<u>Haoxun Li</u>**, Yu Zhang
+
+- **A Dynamic Facial Expression Recognition Method, Electronic Device, and Computer-Readable Storage Medium**
+
+   Inventor: Taihao Li†, Leyuan Qu†, Yu Liu, Hanlei Shi, **<u>Haoxun Li</u>**
+
+- **A Chord-Emotion-Based Motivic Development Algorithm for Multi-Voice Music Generation**
+
+   Inventor: **<u>Haoxun Li</u>**, Wei Ma†
+
+<!-- ## White Paper
 As these works are presented in China, these names are directly translated from Chinese.
 
-- **White Paper on Cross-Border Economic Large Language Model**
+- **White Paper on Cross-Border Economic Large Language Model** -->
 
 </div>
 
@@ -413,35 +374,32 @@ As these works are presented in China, these names are directly translated from 
 <ul class="edu-list">
   <li class="edu-item">
     <div class="edu-text">
-      <p class="edu-title">Doctor of Philosophy (Ph.D)</p>
-      <p class="edu-sub">National University of Singapore (NUS)</p>
+      <p class="edu-title">M.S. in Artificial Intelligence</p>
+      <p class="edu-sub">University of Chinese Academy of Sciences, Hangzhou Institute for Advanced Study (HIAS, UCAS)</p>
       <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
-        <li>Affiliation: Department of Computer Science, School of Computing</li>
-        <li>Advisor: Prof. Yang You</li>
+        <li>Advisor: Prof. Taihao Li</li>
       </ul>
-      <p class="edu-time">2026.01 -</p>
+      <p class="edu-time">2023.09 -</p>
     </div>
-    <div class="edu-img"><img src="assets/institutions/nus.png" alt="NUS"></div>
+    <div class="edu-img"><img src="images/ucas.png" alt="UCAS"></div>
   </li>
   <li class="edu-item">
     <div class="edu-text">
-      <p class="edu-title">Bachelor of Science (B.Sc)</p>
-      <p class="edu-sub">The Chinese University of Hong Kong (CUHK)</p>
+      <p class="edu-title">B.S. in Computer Science and Technology</p>
+      <p class="edu-sub">Fan Gongxiu Honors College, Beijing University of Technology</p>
       <ul style="margin: 6px 0 6px 18px; padding: 0; font-size: 0.96em; color: #555;">
-        <li>1-st class honor</li>
-        <li>Major: Statistics & Data Science, GPA: 3.85/4.0, Rank: 7%</li>
-        <li>Finished my undergraduate in CUHK-Shenzhen campus, while the degree is offered by CUHK.</li>
+        <li>Advisor: Prof. Wei Ma</li>
       </ul>
-      <p class="edu-time">2021.09 - 2025.08</p>
+      <p class="edu-time">2019.09 - 2023.07</p>
     </div>
-    <div class="edu-img"><img src="assets/institutions/cuhk.png" alt="CUHK(SZ)"></div>
+    <div class="edu-img"><img src="images/bjut-logo-2048px.png" alt="BJUT"></div>
   </li>
 </ul>
 
 </div>
 
 ---
-<span class='anchor' id='internships'></span>
+<!-- <span class='anchor' id='internships'></span>
 # 💻 Internships and Work Experiences
 
 <button class="section-toggle-btn" onclick="toggleSection('internships-section', this)">
@@ -609,9 +567,9 @@ html[data-theme="dark"] .exp-img img,
 })();
 </script>
 
-</div>
+</div> -->
 
-<span class='anchor' id='services'></span>
+<!-- <span class='anchor' id='services'></span>
 # 🎈 Services
 
 <button class="section-toggle-btn" onclick="toggleSection('services-section', this)">
@@ -622,7 +580,7 @@ html[data-theme="dark"] .exp-img img,
 
 - Reviewer of AAAI, ICLR, ICML, NeurIPS
 
-</div>
+</div> -->
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors, Awards and Scholarships
@@ -633,25 +591,19 @@ html[data-theme="dark"] .exp-img img,
 
 <div id="honors-section" class="collapsible-content" markdown="1">
 
-- **NUS Research Scholarship** (approx. ￥250000/year plus full tuition fee subsidy, for entire Ph.D studies in NUS)
-  
-- **1-st class honor undergraduate student** awarded by The Chinese University of Hong Kong
+- **National Scholarship**
 
-- **Yearly Academic Scholarship: B Class** (for GPA Top 3%, ￥40000)  
+- **UCAS First-Class Academic Scholarship**
 
-- **Yearly Academic Scholarship: C Class** (for GPA Top 5%, ￥20000)  
+- **UCAS Merit Student Award**
 
-- **Yearly Dean List Award** (Outstanding 1-st class Performance, for 3 years)  
+- **BJUT Innovation & Entrepreneurship Award**
 
-- **Diligentia Bowen Scholarship** (￥120000, Undergraduate Admission Scholarship for 1-st prize in Provincial CMO)
-
-- **Zhejiang Guolong Inspirational Scholarship** (￥120000, Undergraduate Admission Scholarship for top 0.5% students in Chinese College Entrance Exam)  
-
-- **1st-Prize in Chinese Mathematics Olympiad (CMO)-Chongqing Province**
+- **BJUT Outstanding Graduation Thesis Award**
 
 </div>
   
-<span class='anchor' id='press-media'></span>
+<!-- <span class='anchor' id='press-media'></span>
 
 # 💬 Press/Media
 
@@ -671,7 +623,7 @@ html[data-theme="dark"] .exp-img img,
 </div>
 </div>
 
-</div>
+</div> -->
 
 <span class='anchor' id='person'></span>
 # Miscellaneous
@@ -682,27 +634,40 @@ html[data-theme="dark"] .exp-img img,
 
 <div id="misc-section" class="collapsible-content" markdown="1">
 
-- In my spare time, I'm an **music enthusiast**. I’ve been playing guitar for more than 10 years and began teaching myself the piano when I was 15. During my undergraduate, I played music in two bands: "Minor Blue" and "Major Pink." See our photos: 
+I'm a music enthusiast. I started learning guitar in the 5th grade under Mr. Yongxi Yang. After reaching Level 10 in classical guitar, I became obsessed with fingerstyle guitar and taught myself more advanced techniques. My favorite player is the Brazilian fingerstyle guitarist Daniel Padim—I genuinely think every one of his pieces is pure magic, and they've kept me company through countless days and nights. During my master's program, I even chose to live in the lab so I could practice guitar every deep night.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src='images/Major pink.jpg' alt="sym" width="33%" style="display: inline-block;">
-  <img src='images/Minor Blue.jpg' alt="sym" width="33%" style="display: inline-block;">
-  <img src='images/Minor Blue_1.jpg' alt="sym" width="33%" style="display: inline-block;">
+  <img src='images/m1-1.jpg' alt="guitar" width="48%" style="display: inline-block;">
+  <img src='images/m1-2.jpg' alt="guitar" width="48%" style="display: inline-block;">
 </div>
 
+In high school, I formed my first band, "半成品乐队", and we performed our songs at the coming-of-age ceremony of Beijing No. 101 High School. As an undergraduate, I met my three best friends—Xincheng Liu, Jieni Ma, and Yuchen Zhu—and we started a small band called "三人一猪". We wrote the college anthem and performed it at the [graduation ceremony](https://www.bilibili.com/video/BV1wa4y1c7Kg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=aea926cd427c710577bcb1bcdaae25ee). During my master's program, I helped found an instrumental music club, formed HIAS's first band, and played at various events.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src='images/m2-1.png' alt="band" width="48%" style="display: inline-block;">
+  <img src='images/m2-2.jpg' alt="band" width="48%" style="display: inline-block;">
+</div>
 
+I also love chess games, especially Go (围棋). Ever since I learned Go in the 2nd grade, I once went through a phase where I studied it on my own for about 10 hours a day. In 3rd grade, I won the Haidian District "Chunqiu Cup" (Primary School Group). By 5th grade, I reached Amateur 5-dan (the highest amateur rank) and was awarded the title of National Level-2 Athlete.
 
+<div style="display: flex; justify-content: center;">
+  <img src='images/m3-1.jpg' alt="go" width="60%" style="display: inline-block;">
+</div>
 
+I enjoy logic games too—Werewolf, Blood on the Clocktower, Sudoku, and more. I started competitive math early in elementary school, and in 4th grade I won a Gold Award at the IMC (International Mathematics Competition) held in Singapore, which definitely sharpened my logical thinking. Friends I've played Werewolf with once nicknamed me "老流氓"—and I take it as a really high compliment. 🙂
 
+I'm a big fan of ball sports, including (but not limited to) badminton, table tennis, soccer, tennis, and billiards. Before starting my master's program, I served multiple times as team captain for badminton, table tennis, and soccer teams. Since entering my master's program, I've won five medals across different campus sports competitions—and, jokingly speaking, I've done my part to make people take the Sports Power of the School of Intelligent Science and Technology very seriously.
 
-- I am also a **15-years chess player**, with the honor of "National Level-3 Athlete". I love the process of comprehensive planning, logical-thinking and reasoning. Visit my [Lichess profile](https://lichess.org/@/Carlos1333860).
+<div style="display: flex; justify-content: center;">
+  <img src='images/jiangpai.jpg' alt="sports medals" width="60%" style="display: inline-block;">
+</div>
 
-- I love play **basketball** 🏀. Sports makes me energetic.
+Finally, my two favorite games are Arknights and Identity V. Feel free to add me (my Arknights account is on the official server).
 
-- I play video games like **League of Legends**, where I achieved the "diamond" level as my historically highest honor. I also play 3A games like Elden Ring, Dark Souls, Nier Automata, and elder scrolls.
-
-- I have a deep interest in **philosophy of mind**, particularly Buddhism and Taoism, as paths to explore the fundamental nature of human existence. I am also intrigued by the potential integration of these philosophical insights with modern artificial intelligence.
+<div style="display: flex; justify-content: space-between;">
+  <img src='images/mingrifangzhou.png' alt="Arknights" width="48%" style="display: inline-block;">
+  <img src='images/diwurenge.png' alt="Identity V" width="48%" style="display: inline-block;">
+</div>
 
 </div>
 

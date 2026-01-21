@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhenglin (Carlos) Wan 万政霖"
-description              : "Ph.D. student @ NUS Computing"
-repository               : "vanzll/vanzll.github.io"
+title                    : "Haoxun Li"
+description              : "Affective Speechie"
+repository               : "WD-233/WD-233.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhenglin (Carlos) Wan"
+  name             : "Haoxun Li"
   avatar           : "images/soochow.jpg"
   bio              : 
-  location         : "Singapore"
-  employer         :
+  location         : "Hangzhou, China"
+  employer         : "HIAS, UCAS"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=q4DIjckAAAAJ"
-  email            : "vanzl3386@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Nj4Ew20AAAAJ"
+  email            : "lihaoxun23@mails.ucas.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vanzll"# e.g., "github username"#https://github.com/Carlos133386
+  github           : "WD-233"# e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhenglin-wan-3944b5392" # e.g., "linkedin username"
+  linkedin         : "" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Vanzllll"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
