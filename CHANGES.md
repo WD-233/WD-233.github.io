@@ -249,5 +249,31 @@ All required image files are present in the `/images/` directory:
 
 ---
 
+## Update Log - January 21, 2026 (Third Round)
+
+### Additional Modifications
+
+1. **Advisor Links Added** (`_pages/about.md`)
+   - Added hyperlink to Prof. Taihao Li: https://people.ucas.ac.cn/~0070909
+   - Added hyperlink to Dr. Leyuan Qu: https://people.ucas.edu.cn/~leyuanqu
+
+2. **Favicon/Page Icon Updated** (`_includes/head/custom.html`)
+   - Changed all favicon references from default icons to `/data/lihaoxun/tmp/images/fei.png`
+   - Updated:
+     - apple-touch-icon (180x180)
+     - favicon (32x32)
+     - favicon (16x16)
+
+3. **User Manual Image Size Adjustments** (`_pages/about.md`)
+   - User manually adjusted image sizes for better visual balance:
+     - Guitar photos: Changed from 48%/48% to 60%/40% split
+     - Band photos: Changed from 48%/48% to 60%/60%
+     - Go photo: Reduced max-width from 350px to 220px
+     - Sports medals: Changed to 40% width with simplified styling
+     - Game screenshots: Changed from 48%/48% to 70%/55% split
+   - Text correction: "human–AI interaction" changed to "human-computer interaction"
+
+---
+
 **End of Change Log**
 
