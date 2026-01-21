@@ -665,7 +665,7 @@ I'm a big fan of ball sports, including (but not limited to) badminton, table te
 Finally, my two favorite games are Arknights and Identity V. Feel free to add me (my Arknights account is on the official server).
 
 <div style="display: flex; justify-content: space-between; gap: 10px; max-width: 500px; margin: 15px auto;">
-  <img src='images/mingrifangzhou.png' alt="Arknights" style="width: 65%; height: auto; object-fit: contain;">
+  <img src='images/mingrifangzhou.png' alt="Arknights" style="width: 70%; height: auto; object-fit: contain;">
   <img src='images/diwurenge.png' alt="Identity V" style="width: 55%; height: auto; object-fit: contain;">
 </div>
 
